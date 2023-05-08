@@ -6,3 +6,7 @@ This Excel VBA file takes several years of stock information and analyzes it.  T
 The file then runs through all years in the workbook automatically, populating the two tables for each year.  
 
 This repository contains the VBA code (as StockMarket.bas) and contains one Excel file.  The Excel file alphabetical_testing was used to create the VBA script, as it contains a smaller number of data points.  The Excel file Multiple_year_stock_data is the file we want to run the VBA script on, but is too large to upload to GitHub.
+
+If you have any questions about this project, do not hesitate to reach out to me at alicia.hlavac@gmail.com.
+
+I did not collaborate with anyone on this project.
