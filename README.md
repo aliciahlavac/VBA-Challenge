@@ -5,7 +5,7 @@ This Excel VBA file takes several years of stock information and analyzes it.  T
 ![Stock Analysis 2018](https://user-images.githubusercontent.com/127240852/236686702-795304a3-a56d-4ec9-885c-5c8986297c9a.png)
 The file then runs through all years in the workbook automatically, populating the two tables for each year.  
 
-This repository contains the VBA code (as StockMarket.bas) and contains one Excel file.  The Excel file alphabetical_testing was used to create the VBA script, as it contains a smaller number of data points.  The Excel file Multiple_year_stock_data is the file we want to run the VBA script on, but is too large to upload to GitHub.
+This repository contains the VBA code (as StockMarket.bas) and contains one Excel file.  The Excel file alphabetical_testing was used to create the VBA script, as it contains a smaller number of data points.  The Excel file Multiple_year_stock_data is the file we want to run the VBA script on, but is too large to upload to GitHub.  All screenshots are from the Multiple_year_stock_data Excel file, and are from years 2018, 2019, and 2020. 
 
 If you have any questions about this project, do not hesitate to reach out to me at alicia.hlavac@gmail.com.
 
